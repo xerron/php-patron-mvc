@@ -1,8 +1,9 @@
 # Patrón de Diseño Arquitectonico - MVC
 
-Este es el patron arquitectónico MVC con una estructura de carpetas real, puede que se paresca a tu framework favorito esto es porque es una buena practica. 
+Este es el patron arquitectónico MVC con una estructura de carpetas real, puede que se paresca a tu framework favorito esto es porque es una buena practica.
+Claro esta que este proyecto tiene fines didacticos -> **aprendizaje**.
 
-**importante** : Este proyecto lo aplasare para el mes de abril 2013. ahora me encuentro ocupado.
+**importante** : Este proyecto lo aplasare para el mes de **mayo 2013**. ahora me encuentro ocupado.
 
 ## Características:
 
@@ -19,7 +20,7 @@ Para más información [Modelo-Vista-Controlador](http://es.wikipedia.org/wiki/M
 3. Este *controlador* recoge datos de algun  **modelo**.
 4. Una vez obtenido los datos el *controlador* lo envia a una **vista**
 
-OBS: El **contralador** puede o no hacer usos de **modelos**.
+OBS: El **contralador** puede o no hacer uso de **modelos**.
 
 ## Buenas prácticas:
 
@@ -30,7 +31,7 @@ OBS: El **contralador** puede o no hacer usos de **modelos**.
 5. Uso de patrones del patron de diseño singleton. (Database, Config)
 4. code Poetic, lo mas sencillo posible.
 
-# Creditos
+### Creditos
 
 Edwin Manuel Cerrón Angeles
 
