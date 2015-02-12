@@ -3,8 +3,6 @@
 Este es el patron arquitectónico MVC con una estructura de carpetas real, puede que se paresca a tu framework favorito esto es porque es una buena practica.
 Claro esta que este proyecto tiene fines didacticos -> **aprendizaje**.
 
-**importante** : Este proyecto lo aplasare para el mes de **mayo 2013**. ahora me encuentro ocupado.
-
 ## Características:
 
 * **modelo** - Encargado de accesar a los datos. (Ej. BD)
